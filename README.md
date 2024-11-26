@@ -4,7 +4,7 @@
 <p align="center">
   🌱 Currently learning: <strong>Laravel, Tailwind CSS</strong> <br />
   📫 Reach me at: <strong>parakramaweerasuriya@gmail.com</strong> <br />
-  ⚡ Fun fact: Call me <strong>Para</strong>
+  ⚡ You can call me **Para**
 </p>
 
 ---
