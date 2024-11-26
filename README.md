@@ -66,9 +66,9 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parakrama99&theme=dark&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=parakrama99&show_icons=true&count_private=true" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=parakrama99&hide_border=false" />
   <br />
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=parakrama99&theme=dark&hide_border=false" />
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakrama99&theme=dark&hide_border=false&langs_count=10" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakrama99&hide_border=false&langs_count=10" />
 </p>
+
